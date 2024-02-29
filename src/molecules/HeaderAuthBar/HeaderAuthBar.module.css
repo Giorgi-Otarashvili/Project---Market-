@@ -1,0 +1,11 @@
+.HeaderAuthBar {
+  display: flex;
+  gap: 20px;
+}
+
+.avatarContainer { 
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  font-size: 20px;
+}
